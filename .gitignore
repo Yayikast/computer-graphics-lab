@@ -1,0 +1,7 @@
+# Private: cheat sheet is kept locally and not published
+cheat-sheet/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
